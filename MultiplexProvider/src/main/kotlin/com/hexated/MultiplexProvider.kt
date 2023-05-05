@@ -10,7 +10,7 @@ import com.lagradost.cloudstream3.utils.getQualityFromName
 import org.jsoup.nodes.Element
 
 class MultiplexProvider : MainAPI() {
-    override var mainUrl = "https://146.19.24.137"
+    override var mainUrl = "https://95.214.55.217"
     override var name = "Multiplex"
     override val hasMainPage = true
     override var lang = "id"
